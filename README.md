@@ -43,3 +43,6 @@ You can run the application with the command `php artisan ser`, and then open [h
 
 # API Documentation
 You can view all API documentation through Swagger at [http://127.0.0.1:8000/api/documentation](http://127.0.0.1:8000/api/documentation).
+
+# Entity Relationship Database
+![image](https://github.com/user-attachments/assets/0138714a-4d33-4cf1-9b06-3c1de6321a68)
